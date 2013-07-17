@@ -1,0 +1,10 @@
+{
+    name: "esmatcher",
+    version: "0.1"
+    author: "Erick Lavoie <erick@ericklavoie.com>"
+    description: "A pattern-matching domain-specific language embedded in JavaScript for the SpiderMonkey Parsing API."
+    private: true,
+    main: "./lib/main.js",
+    dependencies: {},
+    license: "MIT"
+}
