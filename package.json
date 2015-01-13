@@ -9,6 +9,8 @@
     },
     "private": true,
     "main": "./lib/main.js",
-    "dependencies": {},
+    "dependencies": {
+        "esprima": ">=1.1.1"
+    },
     "license": "MIT"
 }
